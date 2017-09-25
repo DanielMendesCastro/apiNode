@@ -1,0 +1,25 @@
+{
+  "name": "es6-api",
+  "version": "1.0.0",
+  "description": "criando api restfull",
+  "main": "\u001c",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DanielMendesCastro",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "express": "^4.13.4",
+    "mongoose": "^4.3.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-2": "^6.5.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-nodemon": "^2.0.6"
+  }
+}
