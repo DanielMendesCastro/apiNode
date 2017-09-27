@@ -43,3 +43,4 @@ UserSchema.pre('save', function (next) {
 });
 
 exports.default = _mongoose2.default.model('User', UserSchema);
+module.exports = exports['default'];

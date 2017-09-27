@@ -1,5 +1,5 @@
 export default {
     env: 'development',
-    db: 'mongodb://localhost/node-es6-api-dev',
+    db: 'mongodb://localhost/apinode',
     port: 3000
   };
